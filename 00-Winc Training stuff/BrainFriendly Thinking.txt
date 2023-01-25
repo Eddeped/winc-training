@@ -1,0 +1,56 @@
+In this exercise, you're going to prepare for brain-friendly learning in your own style.
+
+Two modes
+Think about and write out a very specific plan on how you are going to apply the two modes of the brain to your learning at Winc Academy.
+
+Repetition
+Think about and write out a very specific plan on how and when you're going to repeat practicing the skills you learn.
+
+Metaphors
+Think of the last complicated thing you learned. Now try to think of a metaphor for it, like you would use to explain it to someone.
+
+Answering questions
+Make an account on Stack Overflow and/or Reddit. If you choose Reddit subscribe to a few programming subreddits like /r/learnprogramming, /r/Frontend, /r/learnpython and /r/learndatascience. Click around for a bit on these sites to familiarize yourself with them. Set a reminder for yourself in a couple of weeks to look for questions you think you can answer and try to answer them.
+
+Set another reminder to do the following: Click around in the Winc Campus and look at a couple of questions people asked. Don't look at the answers yet! Think about how you would answer the question or how you would investigate the problem in case. Then look at the answers to see if you were thinking in the right direction. Feel free to follow up on the question too by the way.
+
+Focus
+Now think about your learning environment. What things can potentially be distracting there? Are there things you can do to remove or lessen those distractions? Are there longer term or shorter term solutions you can apply here? Then apply those solutions.
+
+Think about if and how you're going to work with lists. Are you going to use pen and paper or an app? Take the necessary steps so you can comfortably and efficiently use lists when you're learning.
+
+
+The list of links seen in the video:
+
+JavaScript
+https://developer.mozilla.org/en-US/docs/Web/JavaScript
+
+https://javascript.info/
+
+https://learnxinyminutes.com/docs/javascript/
+
+https://devdocs.io/javascript/
+
+Python
+https://docs.python.org/3/
+
+https://docs.python-guide.org/
+
+https://learnxinyminutes.com/docs/python/
+
+https://devdocs.io/python~3.9/
+
+JavaScript libraries
+https://reactjs.org/docs/hello-world.html
+
+https://devdocs.io/react/
+
+https://redux.js.org/tutorials/essentials/part-1-overview-concepts
+
+Python libraries
+https://flask.palletsprojects.com/en/2.0.x/tutorial/layout/
+
+https://devdocs.io/flask~2.0/
+
+https://docs.python-requests.org/en/latest/user/quickstart/
+
